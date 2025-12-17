@@ -1,6 +1,6 @@
 {
     "input_dir": "./DSMs/",
-    "json": "./tef-pcv-output-nov11.json",
+    "json": "./tef-pcv-output-December.json",
     "filename_metadata": [
        "timestamp", "imgtype"
     ],
